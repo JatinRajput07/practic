@@ -1,0 +1,12 @@
+.grid{
+    display: grid;
+
+    grid-template-columns: auto auto auto;
+    row-gap: 10px;
+    Column-gap:10px
+
+}
+
+.box{
+    text-align: center;
+}
